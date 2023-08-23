@@ -19,3 +19,5 @@ Especially in a language like English, open can actually be a verb, it can be an
 6. Discourse model.
 
 Those are at a very high-level, the steps involved in this traditional NLP pipeline
+ 
+ ![Syntactic Parsing](https://github.com/avipathak99/uiuc/blob/main/NLP_cs447/week1/NLP_cs447/week1/images/syntactic_parsing.png)
